@@ -120,3 +120,16 @@ body {
     left: 18px;
     top: 9px;
 }
+
+
+
+
+.left h3{
+    text-align: center;
+    color: bisque;
+    margin: -10px;
+    font-size:23px ;
+    font-family: 'Otomanopee One', sans-serif;
+    line-height: 10px;
+}
+
