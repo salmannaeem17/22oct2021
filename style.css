@@ -141,3 +141,11 @@ body {
     width: 50%;
 }
 
+
+.right {
+    /* border: 1px solid red; */
+    display: inline-block;
+    position: absolute;
+    right: 15px;
+    top: 34px;
+}
