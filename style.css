@@ -1,0 +1,32 @@
+body {
+        
+    margin: 0px;
+    padding: 0px;
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.navbar li{
+    display:inline-block;
+    font-size: 30px;
+    
+}
+
+.navbar li a{
+    text-decoration: none;
+    color: rgb(59, 42, 13);
+    margin: 20px 15px;
+    padding: 4px 4px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.navbar li a.active,
+.navbar li a:hover
+{
+    color: rgba(126, 120, 120,0.9);
+    text-decoration: underline;
+}
+
