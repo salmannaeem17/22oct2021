@@ -30,3 +30,38 @@ body {
     text-decoration: underline;
 }
 
+
+.btn{
+    font-size: 12px;
+    border-radius: 5px;
+    margin: 6px;
+    padding: 1px 3px;
+    font-family: 'Otomanopee One', sans-serif;
+    background-color: rgba(222, 239, 241, 0.6);
+}
+
+.btn:hover{
+    background-color: rgb(238, 102, 102);
+    cursor: pointer;
+}
+
+
+.bttn{
+    width: 93%;
+    height: 35px;
+    margin: 15px auto;
+    padding: 3px auto;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: indianred;
+    font-family: 'Otomanopee One', sans-serif;
+    display: block;
+    font-style: italic;
+    border: 2px solid rgb(235, 0, 0);;
+}
+
+.bttn:hover{
+    background-color: rgb(245, 43, 43);
+    border: 2px solid rgb(230, 84, 164);
+    cursor: pointer;
+}
