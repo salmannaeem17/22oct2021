@@ -65,3 +65,44 @@ body {
     border: 2px solid rgb(230, 84, 164);
     cursor: pointer;
 }
+
+
+.contain h1{
+    font-size: 35px;
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+.contain{
+    /* border: 1px solid rgb(0, 0, 0); */
+    /* border-radius: 10px; */
+    /* margin-top: 130px;  
+    margin-left: 700px; */
+
+    position: absolute;
+    right: 110px;
+    top: 170px;
+    width: 40%;
+    /* padding: 30px; */
+}
+
+.contain input{
+    width: 90%;
+    height: 30px;
+    margin: 15px auto;
+    padding: 5px 4px;
+    border: 2px solid rgb(230, 84, 164);
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center;
+    display: block;
+    font-style: italic;
+}
+
+
+.contain input:hover{
+    border: 2px solid rgb(235, 0, 0);
+    background-color: rgb(228, 187, 187);
+}
