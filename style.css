@@ -112,3 +112,11 @@ body {
     width: 135px;
 }
 
+
+.left {
+    /* border: 1px solid red; */
+    display: inline-block;
+    position: absolute;
+    left: 18px;
+    top: 9px;
+}
