@@ -133,3 +133,11 @@ body {
     line-height: 10px;
 }
 
+
+.mid {
+    /* border: 1px solid red; */
+    display: block;
+    margin: 25px 300px 25px 285px;
+    width: 50%;
+}
+
