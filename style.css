@@ -106,3 +106,9 @@ body {
     border: 2px solid rgb(235, 0, 0);
     background-color: rgb(228, 187, 187);
 }
+
+.left img {
+    height: 135px;
+    width: 135px;
+}
+
